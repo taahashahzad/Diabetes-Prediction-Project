@@ -107,7 +107,7 @@ Metrics used:
 1. Clone the repo
 
    ```bash
-   git clone <your-repo-link>
+   git clone git remote add origin https://github.com/taahashahzad/Diabetes-Prediction-Project.git
    cd diabetes-prediction
    ```
 2. Install dependencies
